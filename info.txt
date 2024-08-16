@@ -1,7 +1,4 @@
-https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
+Download the pbix file and open it on power bi
 
 Skills : SQL, Power BI
 
-Question :
-1. Which customer that doesn't generate profit or even generate loss
-2. How much loss they generate
